@@ -1,5 +1,9 @@
 /* Aside y nav */
 
+.nav-title {
+    font-weight: 700;
+}
+
 .aside-nav {
     background-color: #000000;
     color: rgba(255, 255, 255, 0.5);
@@ -22,4 +26,8 @@
 
 .list-item:hover{
     background-color: #282828;
+}
+
+.bg-footer{
+    background: linear-gradient(90deg, rgba(175,41,144,1) 0%, rgba(81,154,244,1) 100%);
 }
